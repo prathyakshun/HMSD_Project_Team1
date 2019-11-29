@@ -1,0 +1,19 @@
+Work Distribution:
+
+1. Rachit Jain - Presentation, DQT Plot generation, Rainfall Runoff Model, major code work, ARIMA Model, Project Report
+
+2. Pratik Mandlecha - Presentation, DQT Plot generation, Rainfall Runoff Model, Parameter ForeCasting, Project Report, Major code work
+
+3. Prathyakshun Rajashankar - Presentation, Mask generation, FrontEnd, DQT Plot generation, Major code work, Integration with GUI
+
+4. Aniket Joshi - Mask generation, FrontEnd, DQT Plot generation, watershed delienation, Major code work, Integration with GUI
+
+5. Pawan - FrontEnd, Project Description Doc, Major code work, GUI Template 
+
+6. Siddhant - Project Description Doc
+
+7. Devansh - Project Description Doc
+
+8. Avantika - Project Flowchart
+
+9. Priyanka - Project Flowchart

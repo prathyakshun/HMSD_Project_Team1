@@ -1,0 +1,18 @@
+matlab.engine
+matplotlib 
+glob
+tkinter 
+pandas 
+numpy
+cv2
+scipy.io
+tkinter.ttk
+tkinter.filedialog 
+matplotlib.backends.backend_tkagg import
+matplotlib.backend_bases
+matplotlib.pyplot
+matplotlib.figure
+tkdocviewer
+sklearn.ensemble
+seaborn
+datetime
