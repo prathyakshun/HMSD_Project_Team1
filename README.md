@@ -2,6 +2,8 @@
 # TEAM - 1
 An implementation of the Hydrological models
 
+![ScreenShot of Project](project_cover.png)
+
 ## Presentation Link (Prezi)
 https://prezi.com/view/7w5M4i9wDnDnqo5w0IhU/?fbclid=IwAR1cIW13hLYPScTNK-j8cOxUbYKo26UoKyyRH-UJ8_268Kui_z5e2lhaAsQ
 
