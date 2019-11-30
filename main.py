@@ -306,7 +306,7 @@ def disc():
 
 window=None
 def Ass1():
-    window = Tk.Toplevel(root,background='silver')
+    window = Tk.Toplevel(root,background='blue')
     window.geometry('400x300')
     head1 = Text(window, height=2, width=30)
     head1.insert(INSERT, "Mask File Creation")
@@ -325,7 +325,7 @@ def Ass1():
 
 window2 = None
 def Ass2():
-    window2 = Tk.Toplevel(root,background='silver')
+    window2 = Tk.Toplevel(root,background='blue')
     window2.geometry('800x300')
     head1 = Text(window2, height=2, width=80)
     head1.insert(INSERT, "Watershed Delineation and Rainfall-Runoff Model")
@@ -342,7 +342,7 @@ def Ass2():
 
 window3= None
 def Ass3():
-    window3 = Tk.Toplevel(root,background='silver')
+    window3 = Tk.Toplevel(root,background='blue')
     window3.geometry('700x400')
     head1 = Text(window3, height=2, width=8)
     head1.insert(INSERT, "DQT")
@@ -365,7 +365,7 @@ def Ass3():
 
 window4 = None
 def part4():
-    window4 = Tk.Toplevel(root,background='silver')
+    window4 = Tk.Toplevel(root,background='blue')
     window4.geometry('500x200')
     head1 = Text(window4, height=2, width=45)
     head1.insert(INSERT, "Future Parameter Prediction ")
@@ -380,7 +380,7 @@ def part4():
 
 window5 = None
 def part5():
-    window5 = Tk.Toplevel(root,background='silver')
+    window5 = Tk.Toplevel(root,background='blue')
     window5.geometry('400x200')
     head1 = Text(window5, height=2, width=29)
     head1.insert(INSERT, "Drought Modelling")
