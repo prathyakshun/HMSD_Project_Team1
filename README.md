@@ -2,9 +2,15 @@
 # TEAM - 1
 An implementation of the Hydrological models
 
+## Presentation Link (Prezi)
+https://prezi.com/view/7w5M4i9wDnDnqo5w0IhU/?fbclid=IwAR1cIW13hLYPScTNK-j8cOxUbYKo26UoKyyRH-UJ8_268Kui_z5e2lhaAsQ
+
 ## Structure
 
 - _main.py - Contains the main code to run the GUI application
+- HMSDWorkDistribution.pdf - Work Distribution of Team members
+- Description.pdf - Description of the Project
+- flowchart.pdf - Flow of the project
 - Shp file for a basin
 - rainfall-prediction.xls - Predict future data using time-series ARIMA
 - Discharge_location, basin_mat

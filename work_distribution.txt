@@ -6,7 +6,7 @@ Work Distribution:
 
 3. Prathyakshun Rajashankar - Presentation, Mask generation, FrontEnd, DQT Plot generation, Major code work, Integration with GUI
 
-4. Aniket Joshi - Mask generation, FrontEnd, DQT Plot generation, watershed delienation, Major code work, Integration with GUI
+4. Aniket Joshi - Mask generation, FrontEnd, DQT Plot generation, watershed delineation, Major code work, Integration with GUI
 
 5. Pawan - FrontEnd, Project Description Doc, Major code work, GUI Template 
 
